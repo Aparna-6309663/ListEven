@@ -1,0 +1,2 @@
+Prefix plugins/ListEven/example
+Plugin ListEven inputfile firstinput.txt outputfile output.txt
